@@ -1,4 +1,4 @@
-﻿namespace GDT
+﻿namespace FlappyBird
 {
     /// <summary>
     /// 游戏入口。
@@ -8,6 +8,7 @@
         public static BuiltinDataComponent BuiltinData
         {
             get;
+
             private set;
         }
 
@@ -21,3 +22,5 @@
         }
     }
 }
+
+ 
