@@ -28,6 +28,7 @@ using UnityEngine;
         public void OnStartButtonClick()
         {
             m_ProcedureMenu.IsStartGame = true;
+             
         }
 
         public void OnSettingButtonClick()

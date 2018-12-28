@@ -83,8 +83,6 @@ namespace FlappyBird
             //TODO：在这里根据切换到的场景编号进行对应的流程切换
             switch (gotoSceneId)
             {
-
-
                 case 1:
                     ChangeState<ProcedureMenu>(procedureOwner);
                     break;
